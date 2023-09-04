@@ -10,7 +10,7 @@
 ---
 
 ## 🎯 Summary
-Bringing **20+ years** of experience in construction engineering and project management, I'm now forging a new path in **web development**. My expertise lies in executing agile methodologies, inspired by a relentless passion for technology and AI. Currently on the lookout for opportunities to immerse myself deeper into the tech world.
+Bringing **20+ years** of experience in construction engineering and project management, I'm now forging a new path in **web development**. My expertise lies in executing agile methodologies, inspired by a relentless passion for technology and LLM prompt engineering. Currently on the lookout for opportunities to immerse myself deeper into the tech world.
 
 ---
 
