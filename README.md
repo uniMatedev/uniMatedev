@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Zach Banks - Transitioning Expertise from Project Management to Web Development
+# Zach Banks - Transitioning Expertise from Project Management to Web Development and LLM Prompt Engineering
 
 ## 📞 Contact Information
 - **Email**: [zachbanksdev@gmail.com](mailto:zachbanksdev@gmail.com)
