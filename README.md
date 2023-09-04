@@ -24,3 +24,6 @@ Bringing **20+ years** of experience in construction engineering and project man
 - **Python**
 - **Django**
 - **Agile-PM**
+- **OpenAI-API**
+- **ChatGPT**
+- **Prompt Building**
