@@ -1,29 +1,24 @@
-### Hi there 👋
-# Zach Banks - Transitioning Expertise from Project Management to Web Development and LLM Prompt Engineering
+# Zach Banks - Bridging Construction Technology with Advanced Web Development and AI Solutions
 
-## 📞 Contact Information
-- **Email**: [zachbanksdev@gmail.com](mailto:zachbanksdev@gmail.com)
-- **Phone**: `(858) 375-6063`
-- **Website**: [www.zachbanks.dev](https://www.zachbanks.dev)
-- **Location**: San Diego, CA
+## Contact Information
+- **Email:** [zachbanksdev@gmail.com](mailto:zachbanksdev@gmail.com)
+- **Phone:** (858) 375-6063
+- **Website:** [www.zachbanks.dev](http://www.zachbanks.dev)
+- **Location:** San Diego, CA
 
----
+## Summary
+With over 20 years in construction engineering and project management, I am channeling this vast experience into spearheading innovative web development and AI applications in the construction sector. My journey has been fueled by a deep-rooted interest in integrating cutting-edge AI technology, particularly in the realm of automated building entry systems and advanced web solutions. I am actively seeking collaborations and opportunities that will leverage my unique blend of skills in this evolving industry.
 
-## 🎯 Summary
-Bringing **20+ years** of experience in construction engineering and project management, I'm now forging a new path in **web development**. My expertise lies in executing agile methodologies, inspired by a relentless passion for web development and llm prompting. Currently on the lookout for opportunities to immerse myself deeper into the tech world.
+## Technical Skills
+- **Web Development:** JavaScript, HTML, CSS, ReactJS/NextJS, Tailwind, NodeJS
+- **AI & Machine Learning:** OpenAI-API, ChatGPT, LLM Prompt Engineering
+- **Backend Development:** Python, Django
+- **Project Management:** Agile-PM, Scrum
+- **Industry Specific:** Commercial Building Automation, AI in Construction Technology
 
----
 
-## 💻 Technical Skills
-- **JavaScript**
-- **HTML**
-- **CSS**
-- **ReactJS/NextJS**
-- **Tailwind**
-- **NodeJS**
-- **Python**
-- **Django**
-- **Agile-PM**
-- **OpenAI-API**
-- **ChatGPT**
-- **Prompt Building**
+## Contribution Graph
+[Updated graph reflecting more consistent contributions, especially in areas related to AI and web development in construction technology]
+
+## Activity Overview
+Recent contributions to projects that showcase a synergy between web development, AI, and construction technology. Focused on developing and refining AI solutions for practical, industry-specific challenges.
