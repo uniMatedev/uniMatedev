@@ -16,9 +16,5 @@ With over 20 years in construction engineering and project management, I am chan
 - **Project Management:** Agile-PM, Scrum
 - **Industry Specific:** Commercial Building Automation, AI in Construction Technology
 
-
-## Contribution Graph
-[Updated graph reflecting more consistent contributions, especially in areas related to AI and web development in construction technology]
-
 ## Activity Overview
 Recent contributions to projects that showcase a synergy between web development, AI, and construction technology. Focused on developing and refining AI solutions for practical, industry-specific challenges.
