@@ -1,4 +1,4 @@
-# Zach Banks - Bridging Construction Technology with Advanced Web Development and AI Solutions
+# ZACH BANKS - Bridging Construction Technology with Advanced Web Development and AI Solutions
 
 ## Contact Information
 - **Email:** [zachbanksdev@gmail.com](mailto:zachbanksdev@gmail.com)
